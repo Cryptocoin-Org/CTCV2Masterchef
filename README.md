@@ -1,5 +1,5 @@
 # CTCV2Masterchef
 
-MasterChef coontract code for Cryptocoin EXchange
+MasterChef contract code for Cryptocoin EXchange
 
 Enjoy Highest YeildFarm APR on Binance Smart Chain
